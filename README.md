@@ -16,15 +16,13 @@
 
 <br/>
 
-## 🌐 Live Demo & Repositories
+## 🌐 Live Demo
 
-- **Live Web App**: [gtfs-validator.vercel.app](https://gtfs-validator.vercel.app/)
-- **Frontend UI Repository**: [gabrielbustosdev/GTFS-validator-frontend](https://github.com/gabrielbustosdev/GTFS-validator-frontend) _(Deployed seamlessly via Vercel)_
-- **Backend API Repository**: [gabrielbustosdev/GTFS-validator-backend](https://github.com/gabrielbustosdev/GTFS-validator-backend) _(Deployed robustly on Railway)_
+- **Live App**: [gtfs-validator.vercel.app](https://gtfs-validator.vercel.app/)
 
 ---
 
-## 📖 Welcome! (Portfolio Context)
+## 📖 Welcome!
 
 Welcome to the **GTFS GeoSpatial Validator**. This system was built to handle massive public transportation datasets, evaluating the quality of geographic coordinates, routing integrities, and temporal accuracy within the GTFS standard.
 
@@ -163,7 +161,7 @@ sequenceDiagram
 
 ## 👨‍💻 Author
 
-**Gabriel**  
-_Looking for exciting opportunities as a Software Engineer / Backend / Data Engineer._
+**Gabriel Bustos**  
+_Looking for exciting opportunities as a Full Stack Developer / Backend / Data Engineer._
 
-If you find this project interesting, feel free to reach out or connect with me on LinkedIn!
+If you find this project interesting, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielbustosdev/)!
